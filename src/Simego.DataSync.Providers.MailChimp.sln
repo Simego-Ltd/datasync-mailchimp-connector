@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simego.DataSync.Providers.MailChimp", "Simego.DataSync.Providers.MailChimp\Simego.DataSync.Providers.MailChimp.csproj", "{75041AD3-5B22-402A-9D9A-FF76C03E792A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75041AD3-5B22-402A-9D9A-FF76C03E792A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75041AD3-5B22-402A-9D9A-FF76C03E792A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75041AD3-5B22-402A-9D9A-FF76C03E792A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75041AD3-5B22-402A-9D9A-FF76C03E792A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B96F297A-0B31-46CA-9002-32B64D1596F4}
+	EndGlobalSection
+EndGlobal
